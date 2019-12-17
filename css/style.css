@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(200, 15%, 85%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #333333;
+    font-size: 250%;
+    text-align: center;
+}
+
+h2 {
+    background-color: hsl(200, 15%, 55%);
+    color: hsl(200, 15%, 30%);
+    font-weight: 200%;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h3 {
+    background-color: hsl(200, 15%, 65%);
+    color: hsl(200, 15%, 40%);
+    font-size: 130%;
+    font-style: italic;
+}
+
+p {
+    background-color: hsl(200, 15%, 75%);
+    padding: 20px;
+    line-height: 1.5em;
+}
+
+em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: hsl(200, 100%, 30%);
+    font-weight: normal;
+    font-variant: small-caps;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+    padding: 20px;
+}
