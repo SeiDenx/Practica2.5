@@ -1,15 +1,18 @@
+/* Estilo aplciado a toda la página */
 body {
     background-color: hsl(200, 15%, 85%);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
 }
 
+/* Estilo título */
 h1 {
     color: #333333;
     font-size: 250%;
     text-align: center;
 }
 
+/* Estilo subtítulos */
 h2 {
     background-color: hsl(200, 15%, 55%);
     color: hsl(200, 15%, 30%);
@@ -21,6 +24,7 @@ h2 {
     padding-left: 20px;
 }
 
+/* Estilo h3 */
 h3 {
     background-color: hsl(200, 15%, 65%);
     color: hsl(200, 15%, 40%);
@@ -30,6 +34,7 @@ h3 {
 
 }
 
+/* Estilo párrafos */
 p {
     background-color: hsl(200, 15%, 75%);
     padding-left: 40px;
@@ -45,6 +50,7 @@ em {
     font-weight: bold;
 }
 
+/* Texto destacado */
 strong {
     color: hsl(200, 100%, 30%);
     font-weight: 500;
